@@ -33,7 +33,7 @@ A Flutter application that uses Google's Gemini AI to interpret your mood and ge
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mood-music.git
+   git clone https://github.com/VedantAmal/mood-music.git
    cd mood-music
    ```
 
@@ -67,10 +67,32 @@ A Flutter application that uses Google's Gemini AI to interpret your mood and ge
 
 ## 📱 Screenshots
 
-   ```markdown
-   <p align="center">
-     <img src="assets/screenshots/home-screen.png" width="200" alt="Home Screen">
-     <img src="assets/screenshots/playlist-results.png" width="200" alt="Playlist Results">
-   </p>
-   ```
+```markdown
+<p align="center">
+  <img src="assets/screenshots/home-screen.png" width="200" alt="Home Screen">
+  <img src="assets/screenshots/playlist-results.png" width="200" alt="Playlist Results">
+</p>
+```
 
+## 🔮 Future Features
+
+- [ ] Track preview playback
+- [ ] User authentication for full Spotify access
+- [ ] Save playlists to Spotify account
+- [ ] Share playlists with friends
+- [ ] Custom mood presets
+- [ ] Offline mode
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Google Gemini AI for mood interpretation
+- Spotify for music data
+- Flutter team for the amazing framework
