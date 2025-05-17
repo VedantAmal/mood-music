@@ -6,21 +6,17 @@ A Flutter application that uses Google's Gemini AI to interpret your mood and ge
 
 - **Mood Interpretation**: Enter how you're feeling, and Gemini AI will interpret it into music characteristics
 - **Smart Playlist Generation**: Get personalized playlists based on your mood
-- **Beautiful UI**: Modern, responsive interface with dark theme support
+- **Beautiful UI**: Modern, responsive interface with dark theme
 - **Track Details**: View track information including:
   - Album artwork
   - Artist name
   - Track title
-  - Preview URL (coming soon)
 
 ## 🛠️ Technology Stack
 
 - **Frontend**: Flutter
-- **State Management**: Flutter Riverpod
 - **AI Integration**: Google Gemini AI
 - **Music API**: Spotify Web API
-- **Image Caching**: Cached Network Image
-- **Secure Storage**: Flutter Secure Storage
 
 ## 📋 Prerequisites
 
